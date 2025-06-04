@@ -1,11 +1,6 @@
 Hello World!
 
-🔭 I’m currently working on developing web applications using JavaScript and modern frameworks like React.
-
-🤔 I’m looking for help with improving clean code practices and automated testing.
-
-📫 How to reach me: You can contact me via email or on LinkedIn.
-
+Sejam bem vindo ao meu Portfolio!
 <div>
   <a href=""https://github.com/DouglasMiqueias">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMiqueias&layout=compact&langs_count=16&theme=cobalt"/><br>
