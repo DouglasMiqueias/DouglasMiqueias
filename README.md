@@ -1,10 +1,12 @@
 Hello World!
 
-Sejam bem vindo ao meu Github!
+Sejam bem-vindo ao meu Github!
 <div>
-  <a href=""https://github.com/DouglasMiqueias">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMiqueias&layout=compact&langs_count=16&theme=cobalt"/><br>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasMiqueias&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><br>
+  <a href="https://github.com/DouglasMiqueias">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMiqueias&layout=compact&langs_count=16&theme=cobalt"/>
+    <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasMiqueias&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,9 +16,16 @@ Sejam bem vindo ao meu Github!
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  <div> <br> 
-  <a href="https://www.instagram.com/douglass_miqueias?igsh=dWtzOXA4d25kY21z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:miqueiasdouglas66@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/douglasmiqueias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div><br>
+  <a href="https://www.instagram.com/douglass_miqueias?igsh=dWtzOXA4d25kY21z" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:miqueiasdouglas66@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/douglasmiqueias" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
