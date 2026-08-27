@@ -1,4 +1,4 @@
-# 👋 Hello World! Sejam bem-vindos ao meu GitHub!
+# Hello World! Sejam bem-vindos ao meu GitHub!
 
 Desenvolvedor em evolução no ecossistema **Java** e **Backend**, focado na consolidação dos fundamentos de Programação Orientada a Objetos, boas práticas de código e estrutura de software.
 
