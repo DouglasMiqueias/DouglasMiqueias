@@ -8,8 +8,8 @@ Desenvolvedor em evolução no ecossistema **Java** e **Backend**, focado na con
 
 <div align="center">
   <a href="https://github.com/DouglasMiqueias">
-    <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=DouglasMiqueias&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages" />
-    <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=DouglasMiqueias&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMiqueias&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DouglasMiqueias&show_icons=true&theme=cobalt&count_private=true" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@ Desenvolvedor em evolução no ecossistema **Java** e **Backend**, focado na con
 
 ### 📫 Conecte-se comigo
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/douglasmiqueias" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
