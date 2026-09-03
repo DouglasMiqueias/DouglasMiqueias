@@ -1,6 +1,6 @@
 # 👋 Hello World! Sejam bem-vindos ao meu GitHub!
 
-Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**. Sou apaixonado por resolver problemas complexos, estruturar arquiteturas de software sólidas, trabalhar com persistência de dados e construir APIs RESTful performáticas com Spring Boot.
+Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**.
 
 Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack.
 
