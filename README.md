@@ -1,11 +1,11 @@
 # 👋 Hello World! Sejam bem-vindos ao meu GitHub!
 
-Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**[cite: 1, 2]. Sou apaixonado por resolver problemas complexos, estruturar arquiteturas de software sólidas, trabalhar com persistência de dados e construir APIs RESTful performáticas com Spring Boot.
+Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**.
 
 Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack.
 
-* 🔭 **Foco atual:** Java Core (POO & Stream API) + Spring Boot (REST API, Data JPA) & PostgreSQL
-* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM[cite: 1, 3]
+* 🔭 **Foco atual:** Java Core + Spring Boot (REST API, Data JPA) & PostgreSQL
+* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM
 
 ---
 
@@ -26,7 +26,7 @@ Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programaçã
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Back-end & Banco de Dados
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="REST API" />
@@ -38,7 +38,7 @@ Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programaçã
 <br>
 
 #### Front-end
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -49,7 +49,7 @@ Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programaçã
 <br>
 
 #### Versionamento & Ferramentas
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
@@ -60,7 +60,7 @@ Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programaçã
 
 ### 📫 Conecte-se comigo
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/douglasmiqueias" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
