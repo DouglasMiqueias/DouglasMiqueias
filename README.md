@@ -1,6 +1,11 @@
 # 👋 Hello World! Sejam bem-vindos ao meu GitHub!
 
-Desenvolvedor em evolução no ecossistema **Java** e **Full Stack**, focado na consolidação dos fundamentos de Programação Orientada a Objetos, arquiteturas RESTful, boas práticas de código e estrutura de software.
+Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**. Sou apaixonado por resolver problemas complexos, estruturar arquiteturas de software sólidas, trabalhar com persistência de dados e construir APIs RESTful performáticas com Spring Boot.
+
+Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack.
+
+* 🔭 **Foco atual:** Java Core (POO & Stream API) + Spring Boot (REST API, Data JPA) & PostgreSQL
+* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM
 
 ---
 
@@ -19,6 +24,18 @@ Desenvolvedor em evolução no ecossistema **Java** e **Full Stack**, focado na 
 
 ### 🛠️ Tecnologias e Ferramentas
 
+#### Back-end & Banco de Dados
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+<br>
+
 #### Front-end
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -26,17 +43,6 @@ Desenvolvedor em evolução no ecossistema **Java** e **Full Stack**, focado na 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-
-<br>
-
-#### Back-end & Banco de Dados
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 <br>
