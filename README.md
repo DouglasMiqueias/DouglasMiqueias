@@ -1,43 +1,43 @@
-# Hello World! Sejam bem-vindos ao meu GitHub!
+# 👋 Hello World! Sejam bem-vindos ao meu GitHub!
 
+Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**[cite: 1, 2]. Sou apaixonado por resolver problemas complexos, estruturar arquiteturas de software sólidas, trabalhar com persistência de dados e construir APIs RESTful performáticas com Spring Boot.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFTM** e Analista de Sistemas, com foco no desenvolvimento **Back-end com Java**.
+Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack.
 
-### 🚀 Atualmente estudando
-
-* ☕ Java e Programação Orientada a Objetos
-* 🌱 Spring Boot
-* 🔗 APIs REST
-* 🗄️ PostgreSQL e SQL
-* 🧩 Estruturas de Dados
-* 🏗️ Design Patterns e boas práticas
-* 📐 Arquitetura de software
-* 🅰️ Angular + TypeScript
+* 🔭 **Foco atual:** Java Core (POO & Stream API) + Spring Boot (REST API, Data JPA) & PostgreSQL
+* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM[cite: 1, 3]
 
 ---
 
-### 🛠️ Tecnologias
+### 🐍 Gráfico de Contribuições
 
-#### Back-end
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasMiqueias/DouglasMiqueias/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasMiqueias/DouglasMiqueias/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DouglasMiqueias/DouglasMiqueias/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+<br>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### Back-end & Banco de Dados
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Spring_REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-#### Banco de Dados
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebird-EF2D2D?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-</div>
+<br>
 
 #### Front-end
-
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -46,37 +46,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no IFTM** e Analista d
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-#### Ferramentas
+<br>
 
+#### Versionamento & Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IBExpert-4479A1?style=for-the-badge" alt="IBExpert" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
 
----
-
-### 📌 Projetos
-
-Tenho desenvolvido projetos próprios para colocar em prática conceitos de programação, banco de dados, arquitetura e desenvolvimento web.
-
-**🔹 Sistema de Cálculo de Iluminação**
-Sistema desktop desenvolvido em Java para cálculo e dimensionamento de iluminação de ambientes com base na NBR 8995.
-
-**🔹 Sistema de Gerenciamento de Restaurante**
-Sistema web desenvolvido em PHP utilizando arquitetura MVC, com gerenciamento de produtos, clientes, mesas e pedidos.
-
-**🔹 DevWeb Agência Digital**
-Projeto pessoal voltado ao desenvolvimento de sites e soluções web para clientes reais.
-
----
-
-### 🎯 Objetivo
-
-Meu objetivo é construir uma carreira sólida em **Engenharia e Desenvolvimento de Software**, evoluindo principalmente no ecossistema Java e Back-end.
-
-Busco constantemente transformar conhecimento teórico em prática, desenvolver projetos e aprender com desafios reais.
+<br>
 
 ---
 
@@ -89,7 +67,7 @@ Busco constantemente transformar conhecimento teórico em prática, desenvolver 
   <a href="mailto:miqueiasdouglas66@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/DouglasMiqueias" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.instagram.com/douglass_miqueias?igsh=dWtzOXA4d25kY21z" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
