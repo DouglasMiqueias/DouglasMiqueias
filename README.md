@@ -1,11 +1,11 @@
 # 👋 Hello World! Sejam bem-vindos ao meu GitHub!
 
-Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**. Sou apaixonado por resolver problemas complexos, estruturar arquiteturas de software sólidas, trabalhar com persistência de dados e construir APIs RESTful performáticas com Spring Boot[cite: 1, 2, 3].
+Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**. Sou apaixonado por resolver problemas complexos, estruturar arquiteturas de software sólidas, trabalhar com persistência de dados e construir APIs RESTful performáticas com Spring Boot
 
-Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack[cite: 1, 2, 3].
+Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack
 
-* 🔭 **Foco atual:** Java Core (POO & Stream API) + Spring Boot (REST API, Data JPA) & PostgreSQL[cite: 1, 2, 3]
-* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM[cite: 1, 2, 3]
+* 🔭 **Foco atual:** Java Core (POO & Stream API) + Spring Boot (REST API, Data JPA) & PostgreSQL
+* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM
 
 ---
 
