@@ -1,21 +1,21 @@
 # 👋 Hello World! Sejam bem-vindos ao meu GitHub!
 
-Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**.
+Desenvolvedor com foco no ecossistema **Java** e engenharia de **Back-end**. Sou apaixonado por resolver problemas complexos, estruturar arquiteturas de software sólidas, trabalhar com persistência de dados e construir APIs RESTful performáticas com Spring Boot[cite: 1, 2, 3].
 
-Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack.
+Atualmente aprofundando meus conhecimentos em **Estrutura de Dados, Programação Orientada a Objetos, Padrões de Projeto (Design Patterns) e SQL/PostgreSQL**, além de explorar o ecossistema **Angular + TypeScript** no Front-end para consolidar entregas completas no modelo Full Stack[cite: 1, 2, 3].
 
-* 🔭 **Foco atual:** Java Core (POO & Stream API) + Spring Boot (REST API, Data JPA) & PostgreSQL
-* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM
+* 🔭 **Foco atual:** Java Core (POO & Stream API) + Spring Boot (REST API, Data JPA) & PostgreSQL[cite: 1, 2, 3]
+* 🎓 **Graduação:** Cursando Análise e Desenvolvimento de Sistemas — IFTM[cite: 1, 2, 3]
 
 ---
 
-### 📊 Estatísticas e Linguagens
+### 🎯 Principais Especialidades & Arquitetura
 
 <div align="center">
-  <a href="https://github.com/DouglasMiqueias">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMiqueias&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DouglasMiqueias&show_icons=true&theme=cobalt&count_private=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://img.shields.io/badge/Arquitetura-REST_APIs-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Paradigma-POO_%26_Funcional-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="POO & Funcional" />
+  <img src="https://img.shields.io/badge/Padrões-Clean_Code_%26_Design_Patterns-222222?style=for-the-badge" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Persistência-JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA / Hibernate" />
 </div>
 
 <br>
